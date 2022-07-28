@@ -15,9 +15,6 @@ O(n^2)
 Wort case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-Avarage case:18
-Worth case:27
-Best case:2  
 
 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?Yazınız.
 
